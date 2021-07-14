@@ -4,3 +4,7 @@
     border:3px solid grey ;
 
 }
+.completed {
+    color:gray;
+    text-decoration: line-through;
+}
